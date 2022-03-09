@@ -1,0 +1,24 @@
+{
+  "name": "sample-rollup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "esno debug.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonLzy/sample-rollup.git"
+  },
+  "keywords": [],
+  "author": "Evanzyli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisonLzy/sample-rollup/issues"
+  },
+  "homepage": "https://github.com/edisonLzy/sample-rollup#readme",
+  "dependencies": {
+    "acorn": "^8.7.0",
+    "magic-string": "^0.26.1"
+  }
+}
